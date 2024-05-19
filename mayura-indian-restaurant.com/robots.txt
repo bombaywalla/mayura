@@ -1,0 +1,13 @@
+Sitemap: http://www.mayura-indian-restaurant.com/sitemap.xml
+# Make changes for all web spiders
+User-agent: *
+Disallow: /culver-city-vegetarian.html
+Disallow: /favicon.ico
+Disallow: /gdform.php
+Disallow: /missing.html
+Disallow: /welcome.html
+Disallow: /php_uploads
+Disallow: /stats
+Disallow: /images
+Disallow: /javascript
+
