@@ -1,0 +1,7 @@
+{:tasks
+ {:requires ([babashka.fs :as fs])
+  clean {:doc "Removes all unneeded files."
+         :task (do
+                 (run! fs/delete (fs/glob "." "**~")))}
+  }
+ }
