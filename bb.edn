@@ -3,5 +3,10 @@
   clean {:doc "Removes all unneeded files."
          :task (do
                  (run! fs/delete (fs/glob "." "**~")))}
+  bundle {:doc "Remove unneeded files and zip the files ready for deployment."
+          :task (do
+                  (run! fs/delete (fs/glob "." "**~"))
+                  (fs/delete-if-exists "x.zip")
+                  (shell "zip" "-r" "x" "mayura-indian-restaurant.com"))}
   }
  }
