@@ -1,20 +1,21 @@
 /* CSS Document */
 body {
-	position:relative;
-	background:#fff;
-	font-family:arial,sans-serif;
-	font-size:small;	
-	background:#FFF url(../images/indian-restaurant.jpg) repeat-x 50% 0;	
-	width:100%;
-	text-align:center;
-	color:#74746B;
+    position:relative;
+    background:#fff;
+    font-family:arial,sans-serif;
+    font-size:small;
+    background:#FFF url(../images/indian-restaurant.jpg) repeat-x 50% 0;
+    width:100%;
+    text-align:center;
+    color:#74746B;
 } 
 #mayura {
-	background-repeat:no-repeat;
-	width:764px;
-	margin:0 auto;
-	clear:both;
+    background-repeat:no-repeat;
+    width:764px;
+    margin:0 auto;
+    clear:both;
 }
+
 .e24{display:none;}
 
 /*
@@ -40,69 +41,69 @@ across all modern browsers.
 ---------------------------------------------
 */
 #indian-restaurant {
-	position:relative; 
-	top:5.2em;
-	background:transparent url(../images/indianfood-los-angeles-stamp.jpg) no-repeat 0 0px;
-	margin:0 inherit;
-	height:25em;	
-	width:65em;	
-	text-align:left;
+    position:relative;
+    top:5.2em;
+    background:transparent url(../images/indianfood-los-angeles-stamp.jpg) no-repeat 0 0px;
+    margin:0 inherit;
+    height:25em;
+    width:65em;
+    text-align:left;
 }
 #indian-restaurant h1 {
-	position:absolute; 
-	top:-3.4em; 
-	left:-2.8em;
-	width:1.9em; 
-	height:7.8em;
+    position:absolute;
+    top:-3.4em;
+    left:-2.8em;
+    width:1.9em;
+    height:7.8em;
 }
 #indian-restaurant h3{
-	position:relative;
-	left:6em;
-	width:2.42em;
-	bottom:3.3em;
+    position:relative;
+    left:6em;
+    width:2.42em;
+    bottom:3.3em;
 }
 #freedelivery {
-position:relative;
-left:21.7em;
-font-size:20px;
-font-weight:700;
-color:#FF9900;
-width:300px;
-bottom:-8em;
-text-align:center;
-vertical-align:middle;
+    position:relative;
+    left:21.7em;
+    font-size:20px;
+    font-weight:700;
+    color:#FF9900;
+    width:300px;
+    bottom:-8em;
+    text-align:center;
+    vertical-align:middle;
 }
 #freedelivery  h1{
-position:relative;
-top:-2.2em; 
-left:-0.2em;
-font-size:20px;
-font-weight:700;
-color:#FF9900;
+    position:relative;
+    top:-2.2em;
+    left:-0.2em;
+    font-size:20px;
+    font-weight:700;
+    color:#FF9900;
 }
 
 /*   ------------------------------  */
 /*     Mayura Menu Starts        	*/
 /*   ------------------------------ */
 #mayura-menu{
-	position:absolute;
+    position:absolute;
 }
 #mayura-menu h1{
-	position:relative;	
-	left:25em;
-	top:3.5em;
-	font-size:12px;
-	margin-left:6em;
-	width:30em;
+    position:relative;
+    left:25em;
+    top:3.5em;
+    font-size:12px;
+    margin-left:6em;
+    width:30em;
 }
 #mayura-menu a{
     margin-right:0.2em;
     margin-left: 0.5em;
-	color:#000000;
-	font-weight:bold;
+    color:#000000;
+    font-weight:bold;
 }
 #mayura-menu a:hover{
-	color:#C66300;
+    color:#C66300;
 }
 
 /*   ------------------------------  */
@@ -113,364 +114,355 @@ color:#FF9900;
 /*     Mayura Content Starts      	*/
 /*   ------------------------------ */
 #content{
-	position:relative;
-	background:#ffffff no-repeat;
-	font-size:100%;
-	width:100%;
-	top:.2em;
-	color:#3C3C39;	
+    position:relative;
+    background:#ffffff no-repeat;
+    font-size:100%;
+    width:100%;
+    top:.2em;
+    color:#3C3C39;
 }
 #content strong{
-	font-size:16px;
-	color:#8e3428;	
-	line-height:28px;
-	font-weight:bold;
+    font-size:16px;
+    color:#8e3428;
+    line-height:28px;
+    font-weight:bold;
 }
 #content h6{
-	margin:10px 0px 20px -40px;
-	font-size:24px;
-	position:relative;
-	width:30em;
-	text-align:center;
-	color:#8e3428;	
-	line-height:28px;
-	font-weight:bold;
+    margin:10px 0px 20px -40px;
+    font-size:24px;
+    position:relative;
+    width:30em;
+    text-align:center;
+    color:#8e3428;
+    line-height:28px;
+    font-weight:bold;
 }
 #content dfn{
-	float:left;
-	margin:0px 0px 10px -148px;
-	font-size:22px;
-	width:40em;
-	text-align:center;
-	color:#8e3428;	
-	line-height:22px;
-	font-weight:bold;
+    float:left;
+    margin:0px 0px 10px -148px;
+    font-size:22px;
+    width:40em;
+    text-align:center;
+    color:#8e3428;
+    line-height:22px;
+    font-weight:bold;
 }
 #content p{
-	font-size:12px;
-	line-height:15px;
-	color:#8e3428;
+    font-size:12px;
+    line-height:15px;
+    color:#8e3428;
 }
 #content cite{
-	bottom:-.2em;
-	position:absolute;
-	font-size:18px;
-	line-height:32px;
-	font-weight:bold;
-	color:#880000;
+    bottom:-.2em;
+    position:absolute;
+    font-size:18px;
+    line-height:32px;
+    font-weight:bold;
+    color:#880000;
 }
 
 /*   ------------------------------  */
 /*     Mayura Content Ends     	*/
 /*   ------------------------------ */
 #traditional-foods{
-	position:absolute;
-	width:25em;
-	text-align:justify;	
-	left:1em;
-	margin-top:0px;
+    position:absolute;
+    width:25em;
+    text-align:justify;
+    left:1em;
+    margin-top:0px;
 }
 #traditional-foods h3{
-	width:30em;
-	margin-right:10em;
-	position:relative;	
+    width:30em;
+    margin-right:10em;
+    position:relative;
 }
 #traditional-foods h2{
-	width:10em;
-	left:-1em;
-	padding-bottom:1em;
-	position:relative;		
+    width:10em;
+    left:-1em;
+    padding-bottom:1em;
+    position:relative;
 }
 #content img{
-	margin-right:2.6em;	
+    margin-right:2.6em;
 }
 #traditional-foods  b{
-	position:relative;
-	font-weight:normal;
-	width:13.4em;
+    position:relative;
+    font-weight:normal;
+    width:13.4em;
 }
 #traditional-foods ins{
-	color:#890000;
-	font-size:1.3em;
-	font-weight:bold;
-	text-decoration:none;
+    color:#890000;
+    font-size:1.3em;
+    font-weight:bold;
+    text-decoration:none;
     padding-bottom:1em;
 }
-#traditional-foods font{
-	font-size:1em;
-	width:25em;
-	float:left;
-	line-height:1.5em;	
-	text-align:justify;	
+#traditional-foods p{
+    font-size:1em;
+    width:25em;
+    float:left;
+    line-height:1.5em;
+    text-align:justify;
 }
 #traditional-foods img{
-	margin:.2em 0em 0em 1em;	
+    margin:.2em 0em 0em 1em;
 }
 #culver-city{
-	position:relative;
-	width:750px;
-	text-align:justify;
-	top:0em;
-	line-height:1.6em;
-	color:#8e3428;
-	margin-bottom:3.5em;
+    position:relative;
+    width:750px;
+    text-align:justify;
+    top:0em;
+    line-height:1.6em;
+    color:#8e3428;
+    margin-bottom:3.5em;
 }
 #culver-city p{
-	line-height:20px;
+    line-height:20px;
 }
 #culver-city h1{
-	font-size:1.5em;
+    font-size:1.5em;
     padding:.5em 0em 1em 0em;
-	font-weight:bold;
+    font-weight:bold;
 }
 #spicy-indianfood{
-	position:relative;
-	width:410px;
-	background:url(../images/mayura-kerala-restaurant.jpg) no-repeat;
-	height:234px;
-	left:27em;
+    position:relative;
+    width:410px;
+    background:url(../images/mayura-kerala-restaurant.jpg) no-repeat;
+    height:234px;
+    left:27em;
 }
 #spicy-indianfood h1{
-	font-size:16px;
-	position:relative;
-	right:-1em;
-	text-align:justify;
-	line-height:22px;
-	padding-bottom:1em;
-	font-weight:bold;
-	top:.6em;
-	color:#6c6c6c;
+    font-size:16px;
+    position:relative;
+    right:-1em;
+    text-align:justify;
+    line-height:22px;
+    padding-bottom:1em;
+    font-weight:bold;
+    top:.6em;
+    color:#6c6c6c;
 }
 #spicy-indianfood .feature{
-	color:#CC3333;
-	text-align:center;
-	margin-left:9.5em;	
+    color:#CC3333;
+    text-align:center;
+    margin-left:9.5em;
 }
 #spicy-indianfood h2{
-	font-size:11px;
-	width:18em;
-	text-align:justify;
-	margin-left:2em;
-	text-align:justify;
-	margin-top:0em;
-	line-height:18px;
-	color:#6c6c6c;
-	font-weight:bold;
+    font-size:11px;
+    width:18em;
+    text-align:justify;
+    margin-left:2em;
+    text-align:justify;
+    margin-top:0em;
+    line-height:18px;
+    color:#6c6c6c;
+    font-weight:bold;
 }
 #spicy-indianfood h3{
-	font-size:14px;
-	color:#02a2c2;
-	font-weight:bold;
-	padding-top:1em;
-	margin-left:1.6em;
-	text-align:justify;
+    font-size:14px;
+    color:#02a2c2;
+    font-weight:bold;
+    padding-top:1em;
+    margin-left:1.6em;
+    text-align:justify;
 }
 #spicy-indianfood a{
-	color:#02a2c2;
+    color:#02a2c2;
 }
 #spicy-indianfood a:hover{
-	color:#6C0036;
+    color:#6C0036;
 }
 #south-india-restaurant{
-	position:absolute;
-	width:65em;
-	font-family:sans-serif;
-	margin-top:4em;
-	height:18em;
+    position:absolute;
+    width:65em;
+    font-family:sans-serif;
+    margin-top:4em;
+    height:18em;
 }
 #south-india-restaurant div{
-	position:relative;
-	width:66em;
+    position:relative;
+    width:66em;
 }
 #south-india-restaurant h3{
-	width:11.6em;
-	position:absolute;
-	background:url(../images/indian-food.jpg) no-repeat;
-	height:12.58em;
+    width:11.6em;
+    position:absolute;
+    background:url(../images/indian-food.jpg) no-repeat;
+    height:12.58em;
 }
 #south-india-restaurant strong{
-	color:#FFFFFF;
-	font-size:18px;
-	position:relative;
-	
-	
+    color:#FFFFFF;
+    font-size:18px;
+    position:relative;
 }
 #south-india-restaurant h4{
-	width:11.6em;
-	position:relative;
-	background:url(../images/spicy-indian-food.jpg) no-repeat;	
-	
-	text-align:center;
-	height:12.58em;
+    width:11.6em;
+    position:relative;
+    background:url(../images/spicy-indian-food.jpg) no-repeat;
+    text-align:center;
+    height:12.58em;
 }
 #south-india-restaurant font{
-	text-align:center;
-	font-family:cursive; 
-	font-weight:bold;
-	position:relative;
+    text-align:center;
+    font-family:cursive;
+    font-weight:bold;
+    position:relative;
 }
 #south-india-restaurant b{
-	position:relative;
-	
-	font-weight:bold;
+    position:relative;
+    font-weight:bold;
 }
 #south-india-restaurant h5{
-	width:11.6em;
-	position:absolute;
-	background:url(../images/indian-food-menu.jpg) no-repeat;
-	margin-left:30.75em;
-	height:12.58em;
+    width:11.6em;
+    position:absolute;
+    background:url(../images/indian-food-menu.jpg) no-repeat;
+    margin-left:30.75em;
+    height:12.58em;
 }
 #south-india-restaurant del{
-	width:14em;
-	position:absolute;
-float:right;
-	clear:right;
-	text-decoration:none;
-	text-align:justify;
-	background:url(../images/mayura-contact-us.jpg) no-repeat;
-		height:12.58em;
+    width:14em;
+    position:absolute;
+    float:right;
+    clear:right;
+    text-decoration:none;
+    text-align:justify;
+    background:url(../images/mayura-contact-us.jpg) no-repeat;
+    height:12.58em;
 }
-#south-india-restaurant address{	
-	position:relative;
-	width:15em;
-	font-weight:bold;
-	left:3px;	
+#south-india-restaurant address{
+    position:relative;
+    width:15em;
+    font-weight:bold;
+    left:3px;
 }
 #south-india-restaurant a{
-	color:#ffffff;
-	font-size:12px;
-	line-height:20px;
+    color:#ffffff;
+    font-size:12px;
+    line-height:20px;
 }
-#south-india-restaurant address cite {	
-	font-size:12px;
-	text-align:justify;
-	float:left;
-	clear:left;
-	width:14em;
-	color:#FFFFFF;
-	position:relative;
-	line-height:22px;
-	
+#south-india-restaurant address cite {
+    font-size:12px;
+    text-align:justify;
+    float:left;
+    clear:left;
+    width:14em;
+    color:#FFFFFF;
+    position:relative;
+    line-height:22px;
 }
 #south-india-restaurant  h3 a{
-	color:#e8e8e8;
-	font-size:12px;
-	line-height:20px;
-	
-	
+    color:#e8e8e8;
+    font-size:12px;
+    line-height:20px;
 }
 #south-india-restaurant a:hover{
-	color:#E2B518;
+    color:#E2B518;
 }
 
 /*   --------------------------------------------------   */
 /* Mayura Restaurant Menu  With Images Styles Starts here */
 /*   --------------------------------------------------   */
 #culvercity-restaurant{
-	position:relative;
-	width:65em;
-	height:74em;
-	top:2em;	
+    position:relative;
+    width:65em;
+    height:74em;
+    top:2em;
 }
 #culvercity-restaurant pre{
-	background:url(../images/mayura-indian-diner.jpg) no-repeat;
-	height:1.2em;
-	width:65em;
+    background:url(../images/mayura-indian-diner.jpg) no-repeat;
+    height:1.2em;
+    width:65em;
 }
 #culvercity-restaurant div{
-	width:65em;
-	position:absolute;	
-	height:72em;
-	background:url(../images/mayura-menu-tile.gif) repeat-y;
+    width:65em;
+    position:absolute;
+    height:72em;
+    background:url(../images/mayura-menu-tile.gif) repeat-y;
 }
 #culvercity-restaurant h2{
-	width:16em;
-	float:left;
-	position:relative;
-	padding:1em 0em 1em 0em;
-	left:1em;	
-	margin-left:.7em;
-	margin-right:2.5em;
-	
+    width:16em;
+    float:left;
+    position:relative;
+    padding:1em 0em 1em 0em;
+    left:1em;
+    margin-left:.7em;
+    margin-right:2.5em;
 }
 #culvercity-restaurant a{
-	color:#952F2F;
-	text-align:left;
-	line-height:1.6em;	
-	font-family:Verdana, Arial, Helvetica, sans-serif;
+    color:#952F2F;
+    text-align:left;
+    line-height:1.6em;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 #culvercity-restaurant .dishes{
-	color:#666666;
-	font-size:.9em;	
-	font-weight:normal;
+    color:#666666;
+    font-size:.9em;
+    font-weight:normal;
 }
 #culvercity-restaurant a:hover{
-	color:#000000;
-	text-align:left;
-	line-height:1.6em;	
-	font-family:Verdana, Arial, Helvetica, sans-serif;
+    color:#000000;
+    text-align:left;
+    line-height:1.6em;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 #culvercity-restaurant h3{
-	width:16em;
-	float:left;	
-	top:1em;
-	position:relative;
-	margin-left:.7em;
-	margin-bottom:1em;
-	margin-right:2.5em;
-	
+    width:16em;
+    float:left;
+    top:1em;
+    position:relative;
+    margin-left:.7em;
+    margin-bottom:1em;
+    margin-right:2.5em;
+
 }
 #culvercity-restaurant font{
-	width:16em;
-	float:left;
-	font-size:1em;
-	font-weight:bold;	
-	position:relative;
-	margin-left:.7em;
-	margin-right:2.5em;	
+    width:16em;
+    float:left;
+    font-size:1em;
+    font-weight:bold;
+    position:relative;
+    margin-left:.7em;
+    margin-right:2.5em;
 }
 #culvercity-restaurant .sideorders{
-	float:left;
-	position:relative;
-	right:19em;
-	top:3em;
+    float:left;
+    position:relative;
+    right:19em;
+    top:3em;
 }
 #culvercity-restaurant .soup{
-	float:left;
-	position:relative;
-	bottom:5em;
+    float:left;
+    position:relative;
+    bottom:5em;
 }
 #culvercity-restaurant .culver-city-foods{
-	float:left;
-	position:relative;
-	padding-bottom:0;
-	left:1em;	
+    float:left;
+    position:relative;
+    padding-bottom:0;
+    left:1em;
 }
 #culvercity-restaurant dl{
-	width:65em;
-	float:left;	
-	top:2em;
-	position:relative;
-	margin-left:-3em;
-	margin-right:2.5em;	
+    width:65em;
+    float:left;
+    top:2em;
+    position:relative;
+    margin-left:-3em;
+    margin-right:2.5em;
 }
 #culvercity-restaurant h4{
-	color:#681717;
-	margin-top:2em;
-	font-size:18px;
-	font-weight:bold;
-	
+    color:#681717;
+    margin-top:2em;
+    font-size:18px;
+    font-weight:bold;
 }
 #culvercity-restaurant dd{
-	width:65em;
-	float:left;
-	clear:left;
-	top:2em;
-	height:1.4em;
-	left:3em;
-	position:relative;
-	background:url(../images/mayura-menu-dishes.jpg) no-repeat;
+    width:65em;
+    float:left;
+    clear:left;
+    top:2em;
+    height:1.4em;
+    left:3em;
+    position:relative;
+    background:url(../images/mayura-menu-dishes.jpg) no-repeat;
 }
 /*   --------------------------------------------------   */
 /* Mayura Restaurant Menu  With Images Styles Ends here   */
@@ -480,385 +472,384 @@ float:right;
 /*     Mayura Menu  Items Description and Rates styles starts       */
 /*   ---------------------------------------------------------   */
 #indian-dishes{
-	position:relative;
-	width:66em;
+    position:relative;
+    width:66em;
 }
 #indian-dishes .menunumber{
-	display:none;
-	position:relative;
-	width:5em;
-	font-size:13px;
-	margin-top:.1em;
-	float:left;
-	right:2em;
-	color:#8b3327;
-	font-weight:normal;
-	line-height:26px;	
+    display:none;
+    position:relative;
+    width:5em;
+    font-size:13px;
+    margin-top:.1em;
+    float:left;
+    right:2em;
+    color:#8b3327;
+    font-weight:normal;
+    line-height:26px;
 }
 #indian-dishes h1{
-	width:33em;
-	text-align:left;
-	line-height:26px;
-	float:left;
-	position:relative;
+    width:33em;
+    text-align:left;
+    line-height:26px;
+    float:left;
+    position:relative;
 }
 #indian-dishes h2{
-	width:33em;
-	text-align:left;
-	line-height:26px;
-	float:left;
-	position:relative;
+    width:33em;
+    text-align:left;
+    line-height:26px;
+    float:left;
+    position:relative;
 }
 #indian-dishes .menuitemprice{
-	width:5em;
-	float:left;
-	line-height:26px;
-	position:relative;
-	font-weight:bold;
-	text-align:left;
+    width:5em;
+    float:left;
+    line-height:26px;
+    position:relative;
+    font-weight:bold;
+    text-align:left;
 }
 #indian-dishes div{
-	width:60em;
-	position:relative;
-	padding:0px 0px 0px 0px;
-	line-height:30px;	
+    width:60em;
+    position:relative;
+    padding:0px 0px 0px 0px;
+    line-height:30px;
 }
 #indian-dishes b{
-	font-size:13px;
-	margin-top:.6em;
-	margin-left:0px;
-	color:#6B383D;
-	float:left;
+    font-size:13px;
+    margin-top:.6em;
+    margin-left:0px;
+    color:#6B383D;
+    float:left;
     clear:left;
-	line-height:18px;
-	font-weight:normal;
-	font-family: Arial, Helvetica, sans-serif;
+    line-height:18px;
+    font-weight:normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #indian-dishes  pre{
-	width:50em;
-	margin-left:-2em;
-	border-top:1px dashed #CCCCCC;
-	height:1em;
-	padding:40px 0px 25px 0px;
+    width:50em;
+    margin-left:-2em;
+    border-top:1px dashed #CCCCCC;
+    height:1em;
+    padding:40px 0px 25px 0px;
 }
 #indian-dishes cite{
-	position:relative;
-	float:left;
-	top:3em;
-	width:18em;
-	left:.8em;
-	text-align:justify;
-	font-size:.86em;
-	font-weight:bold;
-	line-height:22px;	
+    position:relative;
+    float:left;
+    top:3em;
+    width:18em;
+    left:.8em;
+    text-align:justify;
+    font-size:.86em;
+    font-weight:bold;
+    line-height:22px;
 }
 #indian-dishes big{
-	font-size:14px;
-	font-weight:bold;
+    font-size:14px;
+    font-weight:bold;
 }
 #indian-dishes cite a{
-	color:#BF3F00;
+    color:#BF3F00;
 }
 #indian-dishes a:hover{
-	color:#000000;
+    color:#000000;
 }
 #indian-dishes h5{
-	position:relative;
-	float:right;
-	clear:right;
-	text-indent:10px;
-	padding:1em 0em 1em 0em;
-	background:url(../images/south-indian-menu.jpg) no-repeat;
-	right:2em;
-	height:32em;
-	line-height:3em;
-	width:16em;
+    position:relative;
+    float:right;
+    clear:right;
+    text-indent:10px;
+    padding:1em 0em 1em 0em;
+    background:url(../images/south-indian-menu.jpg) no-repeat;
+    right:2em;
+    height:32em;
+    line-height:3em;
+    width:16em;
 }
 /*   --------------------------------------------------------      */
 /*     Mayura Menu  Items Description and Rates styles ends      */
 /*   ---------------------------------------------------------   */
 
 /*   --------------------------------------      */
-/*      Mayurs About us Starts here             */
+/*      Mayura About us Starts here             */
 /*   --------------------------------------    */
 #indian-diner{
-	width:100%;
-	float:left;
-	text-align:justify;
-	line-height:18px;
+    width:100%;
+    float:left;
+    text-align:justify;
+    line-height:18px;
 }
 #about-us{
-	width:100%;
-	float:left;
-	height:30em;
-	text-align:justify;
-	line-height:18px;
+    width:100%;
+    float:left;
+    height:30em;
+    text-align:justify;
+    line-height:18px;
 }
 #indian-diner p{
-	padding:.5em 0em 1em 0em;
-	color:#000000;
-	line-height:18px;
+    padding:.5em 0em 1em 0em;
+    color:#000000;
+    line-height:18px;
 }
 #indian-diner a{
-	font-weight:bold;
+    font-weight:bold;
 }
 /*   --------------------------------------      */
-/*      Mayurs About us ends here             */
+/*      Mayura About us ends here             */
 /*   --------------------------------------    */
 
 #privacy-policy{
-	width:100%;
-	float:left;
-	text-align:justify;
-	height:28em;
-	line-height:18px;
+    width:100%;
+    float:left;
+    text-align:justify;
+    height:28em;
+    line-height:18px;
 }
 #privacy-policy img{
-	float:left;
-	margin:20px 10px 30px 10px;
+    float:left;
+    margin:20px 10px 30px 10px;
 }
 #privacy-policy a{
-	font-weight:bold;
+    font-weight:bold;
 }
 
 /*-------------------------------------- */
-/*    Mayurs Sitemap  Styles Starts here */
+/*    Mayura Sitemap  Styles Starts here */
 /*-------------------------------------- */
 #mayura-sitemap{
-	width:100%;
-	float:left;
-	color:#000000;
-	height:38em;
-	text-align:justify;
-	line-height:18px;
+    width:100%;
+    float:left;
+    color:#000000;
+    height:38em;
+    text-align:justify;
+    line-height:18px;
 }
 #mayura-sitemap h1{
-	width:25em;
-	margin-left:20em;
+    width:25em;
+    margin-left:20em;
 }
 #mayura-sitemap a{
-	color:#752e2c;
-	font-weight:normal;
-	font-size:1em;
-	line-height:24px;
+    color:#752e2c;
+    font-weight:normal;
+    font-size:1em;
+    line-height:24px;
 }
 #mayura-sitemap a:hover{
-	color:#000000;
+    color:#000000;
 }
 /*-------------------------------------- */
-/*    Mayurs Sitemap  Styles Ends here */
+/*    Mayura Sitemap  Styles Ends here */
 /*-------------------------------------- */
 
 /*-------------------------------------- */
-/*    Mayurs Contact  Styles Starts here */
+/*    Mayura Contact  Styles Starts here */
 /*-------------------------------------- */
 #mayura-contact{
-	width:100%;
-	right:9em;	
-	height:20em;
-	font-size:.9em;	
-	position:relative;
+    width:100%;
+    right:9em;
+    height:20em;
+    font-size:.9em;
+    position:relative;
 }
 #mayura-contact h1{
-display:inline;
-padding:0px;
-margin:0px;
-padding-top:20px;
+    display:inline;
+    padding:0px;
+    margin:0px;
+    padding-top:20px;
 }
 #mayura-contact address{
-	float:right;
-	margin:0px -150px 0px 0px;
-	font-size:14px;
-	width:220px;
-	text-align:justify;
-	font-weight:bold;
+    float:right;
+    margin:0px -150px 0px 0px;
+    font-size:14px;
+    width:220px;
+    text-align:justify;
+    font-weight:bold;
 }
 #mayura-contact cite{
-	width:200px;
-	text-align:justify;
-	position:relative;
-	float:left;	
-	clear:left;
-	margin:0px 0px 0px 0px;
-	color:#000000;
-	font-size:14px;
-	line-height:22px;
+    width:200px;
+    text-align:justify;
+    position:relative;
+    float:left;
+    clear:left;
+    margin:0px 0px 0px 0px;
+    color:#000000;
+    font-size:14px;
+    line-height:22px;
 }
 #mayura-contact h1{
-	position:relative;
-	float:right;
-	width:300px;
-	bottom:215px;
-	left:500px;
-	color:#8b3327;
-	font-size:22px;
-	font-weight:bold;	
+    position:relative;
+    float:right;
+    width:300px;
+    bottom:215px;
+    left:500px;
+    color:#8b3327;
+    font-size:22px;
+    font-weight:bold;
 }
 #mayura-contact .map{
-	float:right;
-	position:relative;
-	left:16em;
-	top:.5em;	
+    float:right;
+    position:relative;
+    left:16em;
+    top:.5em;
 }
-#credit{	
-	position:relative;
-	float:left;
-	width:10.8em;
-	right:-2em;
-	top:-2em;
-}
-#credit p{
-	position:relative;
-	width:300px;
-	bottom:10px;
-	left:10px;
-	color:#000000;
-	font-size:13px;
-	font-weight:bold;	
+#credit{
+    position:relative;
+    float:left;
+    width:10.8em;
+    right:-2em;
+    top:-2em;
 }
 #credit p{
-	text-align:left;
+    position:relative;
+    width:300px;
+    bottom:10px;
+    left:10px;
+    color:#000000;
+    font-size:13px;
+    font-weight:bold;
+}
+#credit p{
+    text-align:left;
 }
 #credit p strong{
-	font-size:22px;
+    font-size:22px;
 }
 #credit img{
-	position:relative;
-	right:-1em;
+    position:relative;
+    right:-1em;
 }
 /*-------------------------------------- */
-/*    Mayurs Sitemap  Contact Starts here */
+/*    Mayura Sitemap  Contact Starts here */
 /*-------------------------------------- */
 
 /*   ------------------------------  */
 /*     Mayura Footer Starts        	*/
 /*   ------------------------------ */
 #mayura-footer{
-	position:relative;
-	background:#792C22 url(../images/indian-food-restaurant.jpg) repeat-x;
-	top:5em;
-	width:100%;	
-	font-size:.8em;
-	height:9.2em;
-	color:#FFFFFF;	
-	float:left;
-	clear:left;		
-	text-align:center;
+    position:relative;
+    background:#792C22 url(../images/indian-food-restaurant.jpg) repeat-x;
+    top:5em;
+    width:100%;
+    font-size:.8em;
+    height:9.2em;
+    color:#FFFFFF;
+    float:left;
+    clear:left;
+    text-align:center;
 }
 #mayura-footer p{
-	position:absolute;
-	width:100%;
-	line-height:18px;
-	top:5em;
-	text-align:center;
+    position:absolute;
+    width:100%;
+    line-height:18px;
+    top:5em;
+    text-align:center;
 }
 #mayura-footer a{
-	color:#FFFFFF;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:1em;
-	margin-right:.6em;
-	margin-left:.6em;
-	font-weight:bold;
+    color:#FFFFFF;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:1em;
+    margin-right:.6em;
+    margin-left:.6em;
+    font-weight:bold;
 }
 #mayura-footers{
-	position:relative;
-	background:#792C22 url(../images/indian-food-restaurant.jpg) repeat-x;
-	top:2em;
-	height:9.2em;
-	font-size:.8em;
-	color:#FFFFFF;
-	width:100%;	
-	float:left;
-	clear:left;		
-	text-align:center;
+    position:relative;
+    background:#792C22 url(../images/indian-food-restaurant.jpg) repeat-x;
+    top:2em;
+    height:9.2em;
+    font-size:.8em;
+    color:#FFFFFF;
+    width:100%;
+    float:left;
+    clear:left;
+    text-align:center;
 }
 #mayura-footers p{
-	position:absolute;
-	width:100%; 
-	top:5em;
-	line-height:18px;
-	text-align:center;
-	
+    position:absolute;
+    width:100%;
+    top:5em;
+    line-height:18px;
+    text-align:center;
 }
 #mayura-footers a{
-	color:#FFFFFF;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:1em;
-	margin-right:.6em;
-	margin-left:.6em;
-	font-weight:bold;
-/*   ------------------------------  */
-/*     Mayura Footer ends        	*/
-/*   ------------------------------ */
+    color:#FFFFFF;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:1em;
+    margin-right:.6em;
+    margin-left:.6em;
+    font-weight:bold;
+    /*   ------------------------------  */
+    /*     Mayura Footer ends        	*/
+    /*   ------------------------------ */
 }
 
 #table{margin-left:0em;
-}
+      }
 .orange
 {
-font-size:16px;
-font-weight:800;
-font-family:Arial, Helvetica, sans-serif;
-color:#FFFFFF ;
+    font-size:16px;
+    font-weight:800;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#FFFFFF ;
 }
 .orange h2
 {
-color:#FFCC33;
-display:inline;
+    color:#FFCC33;
+    display:inline;
 }
 .orange h3
 {
-color:#890000;
-display:inline;
-font-weight:700;
+    color:#890000;
+    display:inline;
+    font-weight:700;
 }
 .orange a
 {
-color:#D75C00;
-font-size:12px;
+    color:#D75C00;
+    font-size:12px;
 }
 .orange a:hover
 {
-color:#620F0B;
+    color:#620F0B;
 }
 .vcard
 {
-color:#D75C00;
+    color:#D75C00;
 }
 .message
 {
-color:#8E292D;
-font-size:14px;
-font-weight:700;
-text-align:center
+    color:#8E292D;
+    font-size:14px;
+    font-weight:700;
+    text-align:center
 }
 #dubba
 {}
 #dubba a{
-	color:#02a2c2;
+    color:#02a2c2;
 }
 #dubba a:hover{
-	color:#6C0036;
+    color:#6C0036;
 }
 #pscroller1{
-width:440px;
-height: 40px;
-border: 0px solid #cbcbcb; letter-spacing:0em;
-background-color:#f8f8f8;
+    width:440px;
+    height: 40px;
+    border: 0px solid #cbcbcb; letter-spacing:0em;
+    background-color:#f8f8f8;
 }
 .reviews p
 {
-text-align:justify;
-line-height:normal;
+    text-align:justify;
+    line-height:normal;
 }
 .reviews a
 {
-text-align:right;
-font-weight:bold;
+    text-align:right;
+    font-weight:bold;
 }
 .contact
 {
-text-align:left;
+    text-align:left;
 }
 .reser a { color:#8e3428; font-size:16px;  }
 .reser a:hover { color:#000; text-decoration:underline}
