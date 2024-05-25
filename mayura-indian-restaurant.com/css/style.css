@@ -111,6 +111,37 @@ across all modern browsers.
     overflow: visible;
     opacity: 1;
 }
+
+#accessibility-statement{
+    width:100%;
+    float:left;
+    text-align:justify;
+    line-height:18px;
+}
+
+#accessibility-statement img{
+    float:left;
+    margin:20px 10px 30px 10px;
+}
+
+#accessibility-statement a{
+    font-weight:bold;
+}
+
+#accessibility-statement h1{
+    font-size:24px;
+    line-height:40px;
+    font-weight:bold;
+    color:#880000;
+}
+
+#accessibility-statement h2{
+    font-size:18px;
+    line-height:32px;
+    font-weight:bold;
+    color:#880000;
+}
+
 /*   ------------------------------  */
 /*     Mayura Accessibility Ends     */
 /*   ------------------------------  */
@@ -635,7 +666,6 @@ across all modern browsers.
     width:100%;
     float:left;
     text-align:justify;
-    height:28em;
     line-height:18px;
 }
 #privacy-policy img{
