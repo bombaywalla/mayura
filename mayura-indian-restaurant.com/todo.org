@@ -1,0 +1,16 @@
+* Things to still take care of on the website
+** Accessibility items
+*** TODO Add skip nav links
+*** TODO Add main elements
+*** TODO Change menu items in nav bars to nav elements
+*** TODO Fix issues pointed out by scans.
+** Website cleanup
+*** TODO Remove jquery
+*** TODO Remove Meridio from non-menu pages.
+*** TODO Check whether the client redirects are needed.  If so, then all pages.
+** Website redesign
+*** TODO Make the site responsive.
+*** TODO Merge the mobile and desktop websites.
+*** TODO Find a way to do includes.
+*** TODO Make it easy to add an event banner.
+*** TODO Make it easy to make menu price changes.
