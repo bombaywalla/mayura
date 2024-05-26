@@ -9,7 +9,16 @@ body {
     text-align:center;
     color:#74746B;
 } 
+
 #mayura {
+    background-repeat:no-repeat;
+    width:764px;
+    margin:0 auto;
+    clear:both;
+}
+
+/* Same as #mayura for backwards compatibility */
+main {
     background-repeat:no-repeat;
     width:764px;
     margin:0 auto;
