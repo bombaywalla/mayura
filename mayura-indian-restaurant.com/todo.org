@@ -5,7 +5,8 @@
 *** TODO Change menu items in nav bars to nav elements
 *** TODO Fix issues pointed out by scans.
 ** Website cleanup
-*** TODO Remove jquery
+*** DONE Remove jquery
+- State "DONE"       from "TODO"       [2024-05-25 Sat 15:30]
 *** TODO Remove Meridio from non-menu pages.
 *** TODO Check whether the client redirects are needed.  If so, then all pages.
 ** Website redesign
