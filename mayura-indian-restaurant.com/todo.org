@@ -4,6 +4,7 @@
 *** TODO Add main elements
 *** TODO Change menu items in nav bars to nav elements
 *** TODO Fix issues pointed out by scans.
+*** TODO Mark tables only used for layout.
 ** Website cleanup
 *** DONE Remove jquery
 - State "DONE"       from "TODO"       [2024-05-25 Sat 15:30]
