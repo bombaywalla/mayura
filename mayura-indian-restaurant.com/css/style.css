@@ -671,6 +671,43 @@ across all modern browsers.
 /*      Mayura About us ends here             */
 /*   --------------------------------------    */
 
+/*   --------------------------------------      */
+/*      Mayura news Starts here             */
+/*   --------------------------------------    */
+#mayura-news{
+    width:100%;
+    float:left;
+    text-align:justify;
+    line-height:18px;
+}
+#about-us{
+    width:100%;
+    float:left;
+    height:30em;
+    text-align:justify;
+    line-height:18px;
+}
+#mayura-news p{
+    padding:.5em 0em 1em 0em;
+    color:#000000;
+    line-height:18px;
+}
+#mayura-news a{
+    font-weight:bold;
+}
+#mayura-news cite{
+    bottom:-.2em;
+    position:relative;
+    font-size:18px;
+    line-height:32px;
+    font-weight:bold;
+    color:#880000;
+}
+
+/*   --------------------------------------      */
+/*      Mayura news ends here             */
+/*   --------------------------------------    */
+
 #privacy-policy{
     width:100%;
     float:left;
