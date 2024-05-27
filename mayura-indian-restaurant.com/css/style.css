@@ -53,7 +53,10 @@ across all modern browsers.
     position:relative;
     top:5.2em;
     background:transparent url(../images/indianfood-los-angeles-stamp.jpg) no-repeat 0 0px;
-    margin:0 inherit;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: inherit;
+    margin-right: inherit;
     height:25em;
     width:65em;
     text-align:left;
