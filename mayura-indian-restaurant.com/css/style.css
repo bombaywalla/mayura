@@ -816,11 +816,9 @@ across all modern browsers.
     bottom:10px;
     left:10px;
     color:#000000;
+    text-align:left;
     font-size:13px;
     font-weight:bold;
-}
-#credit p{
-    text-align:left;
 }
 #credit p strong{
     font-size:22px;
