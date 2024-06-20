@@ -8,4 +8,5 @@ auto-save-list
 tramp
 .\#*
 #
+/tmp
 x.zip
