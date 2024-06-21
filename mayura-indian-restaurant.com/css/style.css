@@ -886,10 +886,11 @@ across all modern browsers.
     margin-right:.6em;
     margin-left:.6em;
     font-weight:bold;
-    /*   ------------------------------  */
-    /*     Mayura Footer ends        	*/
-    /*   ------------------------------ */
 }
+
+/*   ------------------------------  */
+/*     Mayura Footer ends        	*/
+/*   ------------------------------ */
 
 #table{margin-left:0em;
       }
@@ -922,7 +923,7 @@ across all modern browsers.
 }
 .vcard
 {
-    color:#D75C00;
+    color:#8e3428;
 }
 .message
 {
