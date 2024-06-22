@@ -109,7 +109,9 @@ across all modern browsers.
     background-color: black;
     color: white;
     z-index: -999;
-    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    overflow: hidden; /* anything that doesn't fit is hidden */
     opacity: 0;
 }
 
@@ -120,6 +122,8 @@ across all modern browsers.
     left: 50%;
     transform: translateX(-50%);
     z-index: 999;
+    width: auto;
+    height: auto;
     overflow: visible;
     opacity: 1;
 }
