@@ -592,7 +592,7 @@ across all modern browsers.
     padding:0px 0px 0px 0px;
     line-height:30px;
 }
-#indian-dishes b{
+#indian-dishes .normal{
     font-size:13px;
     margin-top:.6em;
     margin-left:0px;
