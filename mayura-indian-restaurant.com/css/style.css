@@ -643,9 +643,11 @@ across all modern browsers.
     clear:right;
     text-indent:10px;
     padding:1em 0em 1em 0em;
-    background:url(../images/south-indian-menu.jpg) no-repeat;
+/*     background:url(../images/south-indian-menu.jpg) no-repeat; */
+    background:url(../images/our-menus.jpg) no-repeat;
     right:2em;
-    height:32em;
+/*    height:32em; */
+    height: auto;
     line-height:3em;
     width:16em;
 }
